@@ -1,6 +1,6 @@
 # Youtube React Study README
 
-- 배포 URL : https://ohmycode-readme.netlify.app
+- 배포 URL : https://lustrous-horse-d84a9c.netlify.app
 
 
 <br>
